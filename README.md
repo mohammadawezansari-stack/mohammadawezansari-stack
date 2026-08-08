@@ -6,9 +6,7 @@
 
 
 
-# 💫 Hi 👋, I'm Mohammad Awez
 
-Email Me 👉 ✉️ **mohammadawezansari@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 🌐 Socials:
