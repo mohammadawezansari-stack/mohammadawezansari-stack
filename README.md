@@ -1,3 +1,11 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1e3a8a,100:2563eb&text=Mohammad%20Awez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Aspiring Game Developer%20%7C%20Co-founder%20@%20Apex%20Analyticx&descAlignY=58&descSize=18"/>
+
+
+
+
+
 # 💫 Hi 👋, I'm Mohammad Awez
 
 Email Me 👉 ✉️ **mohammadawezansari@gmail.com** For Collaboration/Project or Anything Else. 😊😊
