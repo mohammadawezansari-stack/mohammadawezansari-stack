@@ -43,22 +43,21 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadawezansari-stack&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadawezansari-stack&layout=compact&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadawezansari-stack&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/mohammadawezansari-stack" alt="Awez's contribution graph" />
-</p>
+<div align="center">
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theammarngp-makes&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theammarngp-makes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+
+<img src="https://raw.githubusercontent.com/theammarngp-makes/theammarngp-makes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+<br/>
 ---
 
 ## 📫 Connect With Me
