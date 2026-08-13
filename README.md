@@ -65,7 +65,7 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 
 - GitHub: [@mohammadawezansari-stack](https://github.com/mohammadawezansari-stack)
 - Email: mohammadawezansari@gmail.com
-- linkedIn : mohammad-a-604384310
+- linkedIn : [@mohammad-a-604384310](https://linkedin.com/mohammad-a-604384310)
 
 
 ---
