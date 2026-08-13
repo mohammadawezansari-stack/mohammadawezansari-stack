@@ -1,36 +1,74 @@
-# 💫 Hi 👋, I'm Mohammad Awez
+# Hi, I'm Awez 👋
 
-Email Me 👉 ✉️ **mohammadawezansari@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awezzzz_x_0.9_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-a-604384310) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/awezzzz_09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Awezzzzzx02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadawezansari@gmail.com) 
-[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://Facebook.com/Awezzzzzx02)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohammadawezansari&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mohammadawezansari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammadawezansari&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammadawezansari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohammadawezansari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Electronics & Telecommunications Engineering student with a growing interest in **game development**. I'm currently building my foundations in programming and exploring how to turn that into real, playable projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=mohammadawezansari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+- 🎓 2nd year student, Electronics and Telecommunications Engineering
+- 🎮 Exploring **game development**, currently learning **Unity**
+- 🌱 Learning in public — documenting my progress through GitHub repositories
+- 📌 Currently building a terminal-based game in C as a hands-on project
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** C
+**Game Dev:** Unity
+**Tools:** Git, GitHub
+
+*(Update this section as you pick up new languages, frameworks, or tools.)*
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| **about-me** | This repository — my personal profile and learning journey |
+| **learn-c** | Notes and exercises from learning the C programming language |
+| **terminal-game-c** | A terminal-based game built in C, applying core programming concepts |
+
+*(Update the names above to match your actual repos, e.g. `[learn-c](https://github.com/mohammadawezansari-stack/learn-c)`)*
+
+---
+
+## 🚀 Currently Learning
+
+- Game development fundamentals with Unity
+- Core programming concepts through building small, complete projects
+- Best practices for writing clean, maintainable code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadawezansari-stack&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadawezansari-stack&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadawezansari-stack&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/mohammadawezansari-stack" alt="Awez's contribution graph" />
+</p>
+
+*(These are auto-generated and update on their own — no need to touch them. If they show "0" or look empty, it's usually because activity is still low or repos are private; they'll fill in as you push more commits to public repos.)*
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@mohammadawezansari-stack](https://github.com/mohammadawezansari-stack)
+- Email: mohammadawezansari@gmail.com
+
+*(Swap in your real email — happy to help wire this up.)*
+
+---
+
+⭐️ Thanks for stopping by — more projects coming as I keep learning!
