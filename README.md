@@ -19,7 +19,7 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 **Game Dev:** Unity
 **Tools:** Git, GitHub
 
-*(Update this section as you pick up new languages, frameworks, or tools.)*
+
 
 ---
 
@@ -31,7 +31,7 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 | **learn-c** | Notes and exercises from learning the C programming language |
 | **terminal-game-c** | A terminal-based game built in C, applying core programming concepts |
 
-*(Update the names above to match your actual repos, e.g. `[learn-c](https://github.com/mohammadawezansari-stack/learn-c)`)*
+
 
 ---
 
@@ -58,7 +58,6 @@ Electronics & Telecommunications Engineering student with a growing interest in 
   <img src="https://ghchart.rshah.org/mohammadawezansari-stack" alt="Awez's contribution graph" />
 </p>
 
-*(These are auto-generated and update on their own — no need to touch them. If they show "0" or look empty, it's usually because activity is still low or repos are private; they'll fill in as you push more commits to public repos.)*
 
 ---
 
@@ -67,7 +66,6 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 - GitHub: [@mohammadawezansari-stack](https://github.com/mohammadawezansari-stack)
 - Email: mohammadawezansari@gmail.com
 
-*(Swap in your real email — happy to help wire this up.)*
 
 ---
 
