@@ -22,12 +22,6 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| **about-me** | This repository — my personal profile and learning journey |
-| **learn-c** | Notes and exercises from learning the C programming language |
 
 
 
