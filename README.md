@@ -7,7 +7,7 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 ## 🎯 About Me
 
 - 🎓 2nd year student, Electronics and Telecommunications Engineering
-- 🎮 Exploring **game development**, currently learning **Unity**
+- 🎮 Exploring **game development**, currently learning **C#** and **Unity**
 - 🌱 Learning in public — documenting my progress through GitHub repositories
 
 ---
