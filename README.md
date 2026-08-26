@@ -35,7 +35,7 @@ Electronics & Telecommunications Engineering student with a growing interest in 
 
 ## 🚀 Currently Learning
 
-- Game development fundamentals with Unity
+- C# and Game development fundamentals with Unity
 - Core programming concepts through building small, complete projects
 - Best practices for writing clean, maintainable code
 
